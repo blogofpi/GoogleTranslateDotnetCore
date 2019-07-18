@@ -1,0 +1,12 @@
+﻿@model string;
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn how to use Google Translate API in Dotnet Core</p>
+    <p>Translated Text</p>
+    <p>@Html.Raw(Model)</p>
+</div>

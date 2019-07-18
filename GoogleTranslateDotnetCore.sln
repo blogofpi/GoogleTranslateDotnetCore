@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleTranslateDotnetCore", "GoogleTranslateDotnetCore\GoogleTranslateDotnetCore.csproj", "{B461D1B8-9FFF-4209-B2AD-0F88CEF66881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B461D1B8-9FFF-4209-B2AD-0F88CEF66881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B461D1B8-9FFF-4209-B2AD-0F88CEF66881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B461D1B8-9FFF-4209-B2AD-0F88CEF66881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B461D1B8-9FFF-4209-B2AD-0F88CEF66881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1942683F-7DD9-417B-A332-BDFFAF6563BA}
+	EndGlobalSection
+EndGlobal
